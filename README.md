@@ -1,6 +1,7 @@
 # Customer-Data-Analysis-and-Insights-using-MS-Excel
 
 The objective was to analyze real-world customer and transaction data provided by KPMG to derive meaningful business insights.
+
 📁 Dataset
 
 The analysis is based on four key datasets:
@@ -14,7 +15,7 @@ The analysis is based on four key datasets:
     New Customer List Dataset – Contains information about prospective customers.
 
 
-Data Cleaning 
+# Data Cleaning 
 
     Removed duplicate records from all datasets
 
