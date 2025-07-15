@@ -30,7 +30,7 @@ The analysis is based on four key datasets:
     Verified numerical columns for proper data types (e.g., prices, valuations)
 
     Cleaned and unified entries across all datasets for reliable analysis
+    
+<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f3b8f073-c3a9-4d13-b9bf-8885d7620af2" />
 
-
- <img width="855" height="387" alt="image" src="https://github.com/user-attachments/assets/2045e8a0-45c2-4e4a-a411-24ff4a82d109" />
 
