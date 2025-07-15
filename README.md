@@ -33,4 +33,9 @@ The analysis is based on four key datasets:
     
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f3b8f073-c3a9-4d13-b9bf-8885d7620af2" />
 
+# Transaction Analysis
+
+<img width="616" height="407" alt="image" src="https://github.com/user-attachments/assets/346c3853-fa2e-418f-b85a-a38e9fd55695" />
+
+
 
