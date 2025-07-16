@@ -44,7 +44,8 @@ The analysis is based on four key datasets:
 
 # Customer Life Time Value
 
-<img width="1380" height="1233" alt="image" src="https://github.com/user-attachments/assets/071904ee-adbf-4075-ae23-1a28f5792aad" />
+<img width="512" height="446" alt="image" src="https://github.com/user-attachments/assets/0ad6d489-1442-4ba6-baa2-eb15135234a6" />
+
 
 
 
