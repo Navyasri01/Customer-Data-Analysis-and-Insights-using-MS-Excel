@@ -37,6 +37,11 @@ The analysis is based on four key datasets:
 
 <img width="889" height="445" alt="image" src="https://github.com/user-attachments/assets/eead06e4-8fcf-4376-b101-dc44397a462c" />
 
+# New Customer Analysis
+
+<img width="782" height="428" alt="image" src="https://github.com/user-attachments/assets/ebe9d5cd-e4cb-4bba-9c1a-e8bb8d87f29a" />
+
+
 
 
 
