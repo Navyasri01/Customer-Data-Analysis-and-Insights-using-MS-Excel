@@ -31,7 +31,8 @@ The analysis is based on four key datasets:
 
     Cleaned and unified entries across all datasets for reliable analysis
     
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f3b8f073-c3a9-4d13-b9bf-8885d7620af2" />
+<img width="877" height="393" alt="image" src="https://github.com/user-attachments/assets/7d462b9b-91fa-4834-8c31-c4878ac7765a" />
+
 
 # Transaction Analysis
 
